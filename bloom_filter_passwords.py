@@ -1,6 +1,5 @@
 import hashlib
 
-
 class BloomFilter:
     def __init__(self, size: int, num_hashes: int):
         """
